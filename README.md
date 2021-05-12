@@ -4,5 +4,5 @@ viva hub | unrivaled
 ```
 falseopx | scripting
 kiriot | esp module
-twink marie, materiallua team | ui library
+deno | venyx ui lib
 ```
