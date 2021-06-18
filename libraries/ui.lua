@@ -13,7 +13,7 @@ local utility = {}
 
 -- themes
 local objects = {}
-local Themes = {
+local themes = {
     Background = Color3.fromRGB(24, 24, 24),
     Glow = Color3.fromRGB(0, 0, 0),
     Accent = Color3.fromRGB(190, 132, 255),
