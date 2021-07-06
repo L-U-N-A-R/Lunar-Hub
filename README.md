@@ -1,8 +1,7 @@
-# viva-hub-r2
-viva hub | unrivaled 
+# lunar hub
+lunar hub yes
 # credits
 ```
 falseopx | scripting
-kiriot | esp module
 deno | venyx ui lib
 ```
